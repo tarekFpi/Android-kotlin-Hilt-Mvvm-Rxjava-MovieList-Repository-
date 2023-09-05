@@ -1,4 +1,4 @@
-package com.example.mykotlinrxjava.utils
+package com.example.mykotlinrxjava.network
 import com.example.mykotlinrxjava.retrofit.GameApi
 import com.example.mykotlinrxjava.utils.Constants
 import dagger.Module
